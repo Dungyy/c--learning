@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "IntroLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/IntroLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IntroLibrary.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "IntroLibrary/1.0.0": {
+      "type": "project",
+      "path": "../IntroLibrary/IntroLibrary.csproj",
+      "msbuildProject": "../IntroLibrary/IntroLibrary.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "IntroLibrary >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\erick\\.nuget\\packages\\": {}
@@ -28,7 +47,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\erick\\projects\\c#\\IntroLibrary\\IntroLibrary.csproj": {
+              "projectPath": "C:\\Users\\erick\\projects\\c#\\IntroLibrary\\IntroLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

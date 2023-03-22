@@ -1,0 +1,12 @@
+C:\Users\erick\projects\c#\IntroLibrary\bin\Debug\net7.0\IntroLibrary.deps.json
+C:\Users\erick\projects\c#\IntroLibrary\bin\Debug\net7.0\IntroLibrary.dll
+C:\Users\erick\projects\c#\IntroLibrary\bin\Debug\net7.0\IntroLibrary.pdb
+C:\Users\erick\projects\c#\IntroLibrary\obj\Debug\net7.0\IntroLibrary.csproj.AssemblyReference.cache
+C:\Users\erick\projects\c#\IntroLibrary\obj\Debug\net7.0\IntroLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\projects\c#\IntroLibrary\obj\Debug\net7.0\IntroLibrary.AssemblyInfoInputs.cache
+C:\Users\erick\projects\c#\IntroLibrary\obj\Debug\net7.0\IntroLibrary.AssemblyInfo.cs
+C:\Users\erick\projects\c#\IntroLibrary\obj\Debug\net7.0\IntroLibrary.csproj.CoreCompileInputs.cache
+C:\Users\erick\projects\c#\IntroLibrary\obj\Debug\net7.0\IntroLibrary.dll
+C:\Users\erick\projects\c#\IntroLibrary\obj\Debug\net7.0\refint\IntroLibrary.dll
+C:\Users\erick\projects\c#\IntroLibrary\obj\Debug\net7.0\IntroLibrary.pdb
+C:\Users\erick\projects\c#\IntroLibrary\obj\Debug\net7.0\ref\IntroLibrary.dll
